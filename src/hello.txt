@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 print("Hello, World!");
 print("Hello, Oleg!");
+=======
+>>>>>>> parent of 73f0768... commit-2
 print("Hello, World!");
